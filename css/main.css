@@ -1,0 +1,28 @@
+body,html {
+    height: 100%;
+    margin: 50;
+    padding: 50;
+}
+button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: #6666FF;
+}
+table{
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 30px
+}
+table, th, td {
+  border: 2px solid #6666FF;
+  width: 50%;
+}
+th{
+  background-color: #AA99FF;
+ height: 40px;
+}
